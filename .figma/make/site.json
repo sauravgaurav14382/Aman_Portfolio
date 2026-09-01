@@ -1,0 +1,10 @@
+{
+  "description": "Engage users with a fun emoji reaction picker featuring dynamic scale and rotation animations, enhancing interactions in chats and social media.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
